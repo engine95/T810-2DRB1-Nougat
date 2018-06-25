@@ -2,6 +2,8 @@
 # Automatically generated file; DO NOT EDIT.
 # Linux/arm 3.10.9 Kernel Configuration
 #
+#Placemarker for V1 Remove on later version
+#
 CONFIG_ARM=y
 CONFIG_MIGHT_HAVE_PCI=y
 CONFIG_SYS_SUPPORTS_APM_EMULATION=y
